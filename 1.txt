@@ -1,1 +1,3 @@
 first 
+changes in file1 
+"additional changes" 
