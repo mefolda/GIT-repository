@@ -1,3 +1,4 @@
 first 
 changes in file1 
 "additional changes" 
+FRESH changes like fresh fruits 
